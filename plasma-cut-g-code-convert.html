@@ -47,8 +47,8 @@ $=jQuery
 //--------------------
 
 var replacements = [
-	{find:/\nS0/g, replace: "\nS0\nG01 Z30 F5000" },
-	{find:/S1000/g, replace: "G01 Z0 F5000\nS100\nG01 Z10 F5000" },
+	{find:/\nS0/g, replace: "\nS0\nG01 Z40 F5000" },
+	{find:/S1000/g, replace: "G01 Z-5 F5000\nS100\nG01 Z25 F5000" },
 ]
 var prepend = "G92 X0 Y0 Z0\n"
 var append = "G01 X0 Y0 Z0\n"
