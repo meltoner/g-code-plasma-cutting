@@ -9,3 +9,4 @@ The Off signal is replaced by an Off signal and a z-axis movement raising the he
 Javascript application > <a target="blank" href="https://github.com/meltoner/g-code-plasma-cutting/blob/main/plasma-cut-g-code-convert.html">plasma-cut-g-code-convert.html</a>
 
 <img src="https://github.com/meltoner/g-code-plasma-cutting/blob/main/screen.png">
+<img src="https://github.com/meltoner/g-code-plasma-cutting/blob/main/clean_cut.png">
