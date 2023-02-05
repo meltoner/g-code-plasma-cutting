@@ -13,3 +13,6 @@ Javascript application > <a target="blank" href="https://github.com/meltoner/g-c
 
 ## Example cut results on 2mm thickness
 <img src="https://github.com/meltoner/g-code-plasma-cutting/blob/main/clean_cut.jpg">
+
+## Initial run video
+[Initial itteration video](https://www.youtube.com/watch?v=hZDnYn-BYY0)
