@@ -8,5 +8,8 @@ The Off signal is replaced by an Off signal and a z-axis movement raising the he
 
 Javascript application > <a target="blank" href="https://github.com/meltoner/g-code-plasma-cutting/blob/main/plasma-cut-g-code-convert.html">plasma-cut-g-code-convert.html</a>
 
+## Application screen shot
 <img src="https://github.com/meltoner/g-code-plasma-cutting/blob/main/screen.png">
+
+## Example cut results on 2mm thickness
 <img src="https://github.com/meltoner/g-code-plasma-cutting/blob/main/clean_cut.jpg">
